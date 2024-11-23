@@ -1,3 +1,6 @@
+### Context
+Beginner exercice to fetch webservices in React and display formatted result
+
 ### API used
 https://pokeapi.co/
 
