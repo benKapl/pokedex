@@ -1,4 +1,4 @@
-## API used
+### API used
 https://pokeapi.co/
 
 ### Link to pokedex
